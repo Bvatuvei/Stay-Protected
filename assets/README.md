@@ -7,4 +7,4 @@
 ## [link] (link) [code-link]https://github.com/Bvatuvei/Stay-Protected, [website-link]https://bvatuvei.github.io/Stay-Protected/
 
 ## [Screenshot of the page] )
-! [page](develop/Images/Screenshot.png)
+! [page](images/Screenshot.png)
